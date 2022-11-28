@@ -1,0 +1,4 @@
+red
+green
+white
+black
